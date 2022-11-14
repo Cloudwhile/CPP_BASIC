@@ -79,4 +79,7 @@ The names defined by the iostream library are in the namespace ***std***;
   }
   ```
 
-+ In C++ ***int main*** is essential. And ***int main*** is the access point for the C++ program.
++ In C++ ***int main*** is essential. And ***int main*** is the access point for the C++ program.  
+
+
+Look [Hello world.cpp](https://github.com/Cloudwhile/CPP_BASIC/blob/main/resources/Hello%20world/Hello%20world.cpp)
