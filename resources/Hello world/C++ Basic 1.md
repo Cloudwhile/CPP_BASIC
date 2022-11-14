@@ -31,7 +31,7 @@ int main(){			 //main function
 
   
 
-**But I don't recommend** *while* **this way to solve the problem.**
+**But I don't recommend use** *while* **this way to solve the problem.**
 
 ------
 
