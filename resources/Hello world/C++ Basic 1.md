@@ -2,7 +2,7 @@
 
 **Let's learn the basics of C++ with the Hello world program.**
 
-Here is *Hello world* resource code
+Here is *Hello world* source code
 
 ```c++
 //Hello world.cpp
