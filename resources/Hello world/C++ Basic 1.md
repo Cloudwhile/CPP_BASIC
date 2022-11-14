@@ -22,11 +22,11 @@ int main(){			 //main function
   ```
 
 - ```C++
-  while(1)
+  while(1);
   ```
 
 - ```C++
-  cin>>variable_name
+  cin>>variable_name;
   ```
 
   
