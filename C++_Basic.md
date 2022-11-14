@@ -9,7 +9,7 @@ Here is *Hello world* resource code
 #include <iostream> //C++ basic library
 
 using namespace std; //Use IOSTREAM std Namespace
-int main(){			//main function
+int main(){			 //main function
     cout<<"Hello world"<<endl; //Output 
     return 0;			//Return Value
 }
