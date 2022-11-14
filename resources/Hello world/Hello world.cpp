@@ -2,7 +2,7 @@
 
 #include <iostream> //C++ Basic library
 
-int main(){
+int main(){  //C++ main program function
   
   std::cout<<"Hello world"<<std::endl; //output function
   
