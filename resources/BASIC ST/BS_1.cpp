@@ -30,7 +30,7 @@ int main(){
                 }
         }
         
-        std::cout<<"\nResult: "<<res;
+        std::cout<<"\nResult: "<<res<<std::endl;
             
         int rl = MessageBox(NULL,TEXT("Exit?"),TEXT("Notice"),MB_ICONQUESTION|MB_YESNO);
         if(rl == IDYES){		//contrast key value
