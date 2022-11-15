@@ -102,7 +102,8 @@ In ***BS_1.cpp***, I used a lot of strange statements. And I'll explain them all
   }
   ```
 
-  This is [***switch***] judgment statement. This statement is superior to the [***if***] statement in cases where there is a lot of judgment to be made.
+  This is [***switch***] judgment statement. This statement is superior to the [***if***] statement in cases where there is a lot of judgment to be made.  
+  [Look]()
 
 ​    
 
