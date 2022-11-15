@@ -1,4 +1,4 @@
-///BS_1.cpp
+//BS_1.cpp
 #include <iostream>  //C++ basic library
 #include <windows.h>  //windows api library
 
