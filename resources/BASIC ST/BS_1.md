@@ -1,6 +1,6 @@
 # BS_1
 
-**In the last tutorial, we looked briefly at C++ code**. **You can learn it again.** [C++ Basic 1](https://github.com/Cloudwhile/CPP_BASIC/blob/main/resources/Hello world/C%2B%2B Basic 1.md)✔
+**In the last tutorial, we looked briefly at C++ code**. **You can learn it again.** [C++ Basic 1](https://github.com/Cloudwhile/CPP_BASIC/blob/main/resources/Hello%20world/Hello%20world.cpp)✔
 
 Now let's take C++ a step further with BS_1.cpp.
 
