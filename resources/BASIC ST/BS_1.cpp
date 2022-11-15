@@ -29,6 +29,9 @@ int main(){
                     break;			//jump out of switch
                 }
         }
+        
+        std::cout<<"\nResult: "<<res;
+            
         int rl = MessageBox(NULL,TEXT("Exit?"),TEXT("Notice"),MB_ICONQUESTION|MB_YESNO);
         if(rl == IDYES){		//contrast key value
             break;
