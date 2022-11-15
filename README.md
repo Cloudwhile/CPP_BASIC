@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Author-Cloudwhile-brightgreen)](mailto:linjunhao41@gmail.com) [![](https://img.shields.io/badge/Version-0.0.1-ff69b4)]()
+[![](https://img.shields.io/badge/Author-Cloudwhile-brightgreen)](mailto:linjunhao41@gmail.com) [![](https://img.shields.io/badge/Version-0.0.1-ff69b4)](https://github.com/Cloudwhile/CPP_BASIC/releases)
 
 # C++ BASIC
 - **C++ First Try [Hello world]**  
