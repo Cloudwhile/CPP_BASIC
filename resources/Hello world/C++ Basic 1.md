@@ -28,6 +28,10 @@ int main(){			 //main function
 - ```C++
   cin>>variable_name;
   ```
+  
+- ```C++
+  getchar();
+  ```
 
   
 
