@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Author-Cloudwhile-brightgreen)](mailto:linjunhao41@gmail.com) [![](https://img.shields.io/badge/Version-0.0.1-ff69b4)](https://github.com/Cloudwhile/CPP_BASIC/releases) [![](https://img.shields.io/badge/Schedule-BS__1.cpp-blue)](https://github.com/Cloudwhile/CPP_BASIC/blob/main/resources/BASIC%20ST/BS_1.cpp)
+[![](https://img.shields.io/badge/Author-Cloudwhile-brightgreen)](mailto:linjunhao41@gmail.com) [![](https://img.shields.io/badge/Version-0.0.1-ff69b4)](https://github.com/Cloudwhile/CPP_BASIC/releases/tag/v0.0.1) [![](https://img.shields.io/badge/Schedule-BS__1.cpp-blue)](https://github.com/Cloudwhile/CPP_BASIC/blob/main/resources/BASIC%20ST/BS_1.cpp)
 
 # C++ BASIC
 - **C++ First Try [Hello world]**  
