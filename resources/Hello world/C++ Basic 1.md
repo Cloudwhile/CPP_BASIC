@@ -15,7 +15,7 @@ int main(){			 //main function
 }
 ```
 
-**When running the program, you will find that the program will flash and disappear, and we can use the following statement to solve the problem.**
+**When running the program(NO DEBUG MODE), you will find that the program will flash and disappear, and we can use the following statement to solve the problem.**
 
 - ```C++
   system("pause");
